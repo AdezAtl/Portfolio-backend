@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/AdezAtl/Portfolio-backend/issues"
   },
-  "homepage": "https://github.com/AdezAtl/Portfolio-backend#readme"
+  "homepage": "https://github.com/AdezAtl/Portfolio-backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
 }
